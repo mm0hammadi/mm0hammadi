@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working Freelancer
+- 🔭 I’m currently working as a Freelancer
 
 -  🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.
   
