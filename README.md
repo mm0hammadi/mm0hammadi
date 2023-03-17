@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently working as a Freelancer
+- 🔭 I’m currently working as a FrontEnd Developer
 
--  🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.
+-  🌱 <b>I’m currently learning</b>: Computer Science 
   
 - 🌱 I’m currently learning Testing Library, TypeScipt
   
