@@ -45,9 +45,7 @@
 
 
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=
-mm0hammadi
-&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm0hammadi)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <br>
