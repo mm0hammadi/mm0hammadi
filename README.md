@@ -46,6 +46,8 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?username=mm0hammadi&page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
   
+  ![](https://komarev.com/ghpvc/?username=mm0hammadi&label=PROFILE+VIEWS)
+
 <br>
 <br>
   <br>
