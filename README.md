@@ -1,4 +1,4 @@
-<div size='20px' align="center"> Hi! My name is Macy. Thank You for taking the time to view my GitHub Profile :smile: 💗
+<div size='20px' align="center"> Hi! My name is Macy. Thank You for taking the time to view my GitHub Profile 💗
 </div>
 
 <div align="center">
