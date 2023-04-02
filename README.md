@@ -10,10 +10,8 @@
 
 
 - 🔭 I’m currently working as a FrontEnd Developer
-
--  🌱 <b>I’m currently learning</b>: Computer Science 
   
-- 🌱 I’m currently learning Testing Library, TypeScipt
+- 🌱 I’m currently learning Testing Library,PlayWright, TypeScipt
   
 - 👯 I’m looking to collaborate on Proyectos
   
