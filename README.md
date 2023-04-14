@@ -15,7 +15,7 @@
   
 - 👯 I’m looking to collaborate on Proyectos
   
-- 💬 Ask me about React, JavaScript
+- 💬 Ask me about React, JavaScript, TypeScript
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mm0hammadi&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
