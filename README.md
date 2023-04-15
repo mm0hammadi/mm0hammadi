@@ -8,7 +8,6 @@
 </div>
 
 
-
 - 🔭 I’m currently working as a FrontEnd Developer
   
 - 🌱 I’m currently learning Testing Library,PlayWright, TypeScipt
