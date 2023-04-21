@@ -8,9 +8,11 @@
 </div>
 
 
+![1121317](https://user-images.githubusercontent.com/48970605/233646984-4c26ac3f-b567-4d38-8541-dfdbe371da9b.png)
+
 - 🔭 I’m currently working as a FrontEnd Developer
   
-- 🌱 I’m currently learning Testing Library,PlayWright, TypeScipt
+- 🌱 I’m currently learning Testing Library,PlayWright, TypeScipt                                       
   
 - 👯 I’m looking to collaborate on Proyectos
   
