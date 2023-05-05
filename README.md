@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a FrontEnd Developer
   
-- 🌱 I’m currently learning Testing Library,PlayWright, TypeScipt                                       
+- 🌱 I’m currently learning Testing Library,PlayWright                                       
   
 - 👯 I’m looking to collaborate on Proyectos
   
