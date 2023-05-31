@@ -8,6 +8,9 @@
 </div>
 
 
+[![wakatime](https://wakatime.com/badge/user/744d2e5b-31fc-41ea-b64a-e25d09aebbf9.svg)](https://wakatime.com/@744d2e5b-31fc-41ea-b64a-e25d09aebbf9)
+
+
 ![1121317](https://user-images.githubusercontent.com/48970605/233646984-4c26ac3f-b567-4d38-8541-dfdbe371da9b.png)
 
 - 🔭 I’m currently working as a FrontEnd Developer
