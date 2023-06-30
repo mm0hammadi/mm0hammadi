@@ -8,13 +8,11 @@
 </div>
 
 
+[![wakatime](https://wakatime.com/badge/user/50081e82-85df-4a3e-81c2-b7e17beddd0b.svg)](https://wakatime.com/@50081e82-85df-4a3e-81c2-b7e17beddd0b)
+<br/>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=m0hamadi)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![wakatime](https://wakatime.com/badge/user/744d2e5b-31fc-41ea-b64a-e25d09aebbf9.svg)](https://wakatime.com/@744d2e5b-31fc-41ea-b64a-e25d09aebbf9) -->
-
-
-<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=m0hammadi)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ![1121317](https://user-images.githubusercontent.com/48970605/233646984-4c26ac3f-b567-4d38-8541-dfdbe371da9b.png)
