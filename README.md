@@ -11,7 +11,8 @@
 [![wakatime](https://wakatime.com/badge/user/50081e82-85df-4a3e-81c2-b7e17beddd0b.svg)](https://wakatime.com/@50081e82-85df-4a3e-81c2-b7e17beddd0b)
 <br/>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=m0hamadi)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=m0hammadi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
