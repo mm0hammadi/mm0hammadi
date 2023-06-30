@@ -8,7 +8,7 @@
 </div>
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username==m0hamadi)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=m0hamadi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![wakatime](https://wakatime.com/badge/user/744d2e5b-31fc-41ea-b64a-e25d09aebbf9.svg)](https://wakatime.com/@744d2e5b-31fc-41ea-b64a-e25d09aebbf9) -->
