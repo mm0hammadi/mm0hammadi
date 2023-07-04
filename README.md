@@ -1,3 +1,4 @@
+
 <div size='20px' align="center"> Hi! My name is Misa. Thank You for taking the time to view my GitHub Profile 💗
 </div>
 
@@ -6,6 +7,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
 
 
 <a href="https://wakatime.com/@744d2e5b-31fc-41ea-b64a-e25d09aebbf9"><img src="https://wakatime.com/badge/user/744d2e5b-31fc-41ea-b64a-e25d09aebbf9.svg" alt="Total time coded since Feb 8 2023" /></a>
