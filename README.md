@@ -16,8 +16,6 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=m0hammadi)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
 ![1121317](https://user-images.githubusercontent.com/48970605/233646984-4c26ac3f-b567-4d38-8541-dfdbe371da9b.png)
 
 - 🔭 I’m currently working as a FrontEnd Developer
