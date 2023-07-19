@@ -10,7 +10,7 @@
 
 
 
-<a href="https://wakatime.com/@744d2e5b-31fc-41ea-b64a-e25d09aebbf9"><img src="https://wakatime.com/badge/user/744d2e5b-31fc-41ea-b64a-e25d09aebbf9.svg" alt="Total time coded since Feb 8 2023" /></a>
+[![wakatime](https://wakatime.com/badge/user/744d2e5b-31fc-41ea-b64a-e25d09aebbf9.svg)](https://wakatime.com/@744d2e5b-31fc-41ea-b64a-e25d09aebbf9)
 
 
 
