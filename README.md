@@ -42,12 +42,4 @@
 <!-- <a href="https://www.coffeebede.com/misa.mohammadi"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a> -->
 
 
-Support Me
-<hr/>
 
-<br/>
-[buymeacoffee.com/?via=mhmohamadig](https://bmc.link/mhmohamadig)
-<br/>
-<br/>
-
-<a href="https://www.coffeebede.com/misa.mohammadi"><img style="width:200px "  src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
